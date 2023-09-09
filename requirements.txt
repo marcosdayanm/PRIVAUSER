@@ -1,0 +1,6 @@
+bcrypt
+cryptography
+os
+platform
+time
+tabulate
